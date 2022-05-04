@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ketchmain
+- 👋 Hi, I’m ketchmain
 - 👀 I’m interested in information technology, decentralized finance and blockchain solutions.
 - 🌱 I’m currently learning Solidity.
 - 💞️ I’m looking to collaborate on web3 projects.
